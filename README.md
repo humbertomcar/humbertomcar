@@ -25,3 +25,13 @@
     <img alt="Vscode" src="./images/vscode-svgrepo-com.svg" width = 40>
     <img alt="Git" src="./images/git-svgrepo-com.svg" width = 40>
 </div>
+<br>
+<div style="display: inline_block; text-align: center">
+    <h3>Já tive contato</h3>
+    <img alt="C" src="./images/c-svgrepo-com.svg" width = 40>
+    <img alt="antlr" src="./images/antlr-svgrepo-com.svg" width = 40>
+    <img alt="arduino" src="./images/arduino-svgrepo-com.svg" width = 40>
+    <img alt="Assembly" src="./images/assembly-svgrepo-com.svg" width = 40>
+    <img alt="React Native" src="./images/react-svgrepo-com.svg" width = 40>
+    <img alt="PostGreSQL" src="./images/postgresql-svgrepo-com.svg" width = 40>
+</div>
