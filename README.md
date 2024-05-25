@@ -1,13 +1,13 @@
 ### Opa!! Me chamo Humberto🦵
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/humberto-carneiro-674927235)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([www.linkedin.com/in/humberto-carneiro-674927235](https://www.instagram.com/humberto.carneiro0/))
 
-
 ![humbertomcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomcar&hide_progress=true)
 
 
 
