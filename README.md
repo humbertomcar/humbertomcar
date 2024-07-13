@@ -1,4 +1,4 @@
-### Opa!! Me chamo Humberto🦵
+<h1>Opa!! Me chamo Humberto🦵</h1>
 <div style="display: inline-block;" margin-bottom = 50>
     <a href="www.linkedin.com/in/humberto-carneiro-674927235"><img alt="Linkedin" src="https://www.svgrepo.com/show/448234/linkedin.svg" width = 40</a>
     <a href="https://www.instagram.com/humberto.carneiro0/"><img alt="Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width = 40</a>
@@ -26,7 +26,6 @@
 <br>
 <div style="display: inline_block; text-align: center">
     <h3>Já tive contato</h3>
-    <img alt="C" src="./images/c-svgrepo-com.svg" width = 40>
     <img alt="antlr" src="./images/antlr-svgrepo-com.svg" width = 40>
     <img alt="arduino" src="./images/arduino-svgrepo-com.svg" width = 40>
     <img alt="Assembly" src="./images/assembly-svgrepo-com.svg" width = 40>
