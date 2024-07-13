@@ -1,15 +1,13 @@
 ### Opa!! Me chamo Humberto🦵
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/humberto-carneiro-674927235)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([www.linkedin.com/in/humberto-carneiro-674927235](https://www.instagram.com/humberto.carneiro0/))
-
-![humbertomcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomcar&hide_progress=true)
-
-
+<div style="display: inline-block;" margin-bottom = 50>
+    <a href="www.linkedin.com/in/humberto-carneiro-674927235"><img alt="Linkedin" src="https://www.svgrepo.com/show/448234/linkedin.svg" width = 40</a>
+    <a href="https://www.instagram.com/humberto.carneiro0/"><img alt="Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width = 40</a>
+</div>
+<br>
+<div align= "start">
+    <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark">
+    <img alt="humbertomcar's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomcar&hide_progress=true" align= "top">
+</div>
 
 <div style="display: inline_block; text-align: center"><br>
     <h2>Tecnologias que uso no meu dia</h2>
