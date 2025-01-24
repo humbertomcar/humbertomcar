@@ -1,34 +1,36 @@
-<h1>Opa!! Me chamo Humberto🦵</h1>
-<div style="display: inline-block;" margin-bottom = 50>
-    <a href="www.linkedin.com/in/humberto-carneiro-674927235"><img alt="Linkedin" src="https://www.svgrepo.com/show/448234/linkedin.svg" width = 40</a>
-    <a href="https://www.instagram.com/humberto.carneiro0/"><img alt="Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width = 40</a>
-</div>
-<br>
-<div align= "start">
-    <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark">
-    <img alt="humbertomcar's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertomcar&hide_progress=true" align= "top">
+<div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center">
+    <h1 style="grid-column: 1 / 2">Hi! I'm Humberto</h1>
+    <ul style="grid-column: 1">
+        <li>Undergraduate in Computer Science 7th/8 🎓</li>
+        <li>Intern at TPF Engenharia as an Automation Developer 💼</li>
+        <li>Currently focused on Front-end development 📚</li>
+    </ul>
+        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark" style="max-width: 300px; grid-column: 2">
 </div>
 
-<div style="display: inline_block; text-align: center"><br>
-    <h2>Tecnologias que uso no meu dia</h2>
-    <img alt="java" src="./images/java-svgrepo-com.svg" width = 40 style="align_items:">
-    <img alt="HTML" src="./images/html-5-svgrepo-com.svg" width = 40>
-    <img alt="CSS" src="./images/css-3-svgrepo-com.svg" width = 40>
-</div>
-<br>
-<br>
-<div style="display: inline_block; text-align: center">
-    <h2>Ferramentas usadas</h2>
-    <img alt="Ubuntu" src="./images/ubuntu-svgrepo-com.svg" width = 40>
-    <img alt="Vscode" src="./images/vscode-svgrepo-com.svg" width = 40>
-    <img alt="Git" src="./images/git-svgrepo-com.svg" width = 40>
-</div>
-<br>
-<div style="display: inline_block; text-align: center">
-    <h3>Já tive contato</h3>
-    <img alt="antlr" src="./images/antlr-svgrepo-com.svg" width = 40>
-    <img alt="arduino" src="./images/arduino-svgrepo-com.svg" width = 40>
-    <img alt="Assembly" src="./images/assembly-svgrepo-com.svg" width = 40>
-    <img alt="React Native" src="./images/react-svgrepo-com.svg" width = 40>
-    <img alt="PostGreSQL" src="./images/postgresql-svgrepo-com.svg" width = 40>
+<div style="justify-content: center">
+    <h2 style="margin-bottom: 10px">Worktools</h2>
+    <ul style="display: flex; list-style: none; justify-content: start; margin-top: 10px; gap: 6px; padding: 0px; margin: 0px; align-items: center">
+        <li>
+            <img alt="Python" src="./images/python-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="HTML" src="./images/html-5-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="CSS" src="./images/css-3-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="java" src="./images/java-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="Git" src="./images/git-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="JS" src="./images/javascript-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+        <li>
+            <img alt="Linux" src="./images/linux-tux-svgrepo-com.svg" style="width: 30px; height: 30px">
+        </li>
+    <ul>
 </div>
