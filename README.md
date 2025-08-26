@@ -1,11 +1,13 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center">
     <h1 style="grid-column: 1 / 2">Hi! I'm Humberto</h1>
     <ul style="grid-column: 1">
-        <li>Undergraduate in Computer Science 7th/8 🎓</li>
+        <li>Undergraduate in Computer Science 8th/8 🎓</li>
         <li>Intern at TPF Engenharia as an Automation Developer 💼</li>
         <li>Currently focused on Front-end development 📚</li>
     </ul>
-        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=humbertomcar&theme=onedark" style="max-width: 300px; grid-column: 2">
+    <hr/>
+        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats-sable-nu-11.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula" style="max-width: 300px; grid-column: 2">
+    <hr/>
 </div>
 
 <h2 style="margin-bottom: 10px">Worktools</h2>
