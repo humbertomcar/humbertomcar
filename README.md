@@ -6,7 +6,7 @@
         <li>Currently focused on Front-end development 📚</li>
     </ul>
     <hr/>
-        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats-sable-nu-11.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula" style="max-width: 300px; grid-column: 2">
+        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats-mvgg.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula" style="max-width: 300px; grid-column: 2">
     <hr/>
 </div>
 
