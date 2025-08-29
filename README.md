@@ -3,7 +3,7 @@
     <ul style="grid-column: 1">
         <li>Undergraduate in Computer Science 8th/8 🎓</li>
         <li>Intern at TPF Engenharia as an Automation Developer 💼</li>
-        <li>Currently focused on Front-end development 📚</li>
+        <li>Currently focused on Fullstack development 📚</li>
     </ul>
     <hr/>
         <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats-mvgg.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula" style="max-width: 300px; grid-column: 2">
