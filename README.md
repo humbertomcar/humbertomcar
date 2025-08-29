@@ -5,9 +5,6 @@
         <li>Intern at TPF Engenharia as an Automation Developer 💼</li>
         <li>Currently focused on Fullstack development 📚</li>
     </ul>
-    <hr/>
-        <img alt="humbertomcar's GitHub stats" src="https://github-readme-stats-mvgg.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula" style="max-width: 300px; grid-column: 2">
-    <hr/>
 </div>
 
 <h2 style="margin-bottom: 10px">Worktools</h2>
