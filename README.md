@@ -6,7 +6,7 @@
         <li>Currently focused on Fullstack development 📚</li>
     </ul>
 </div>
-  <img src="https://github-readme-stats-mvgg.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula&langs_count=6" />
+  <img src="https://github-readme-stats-mvgg.vercel.app/api/top-langs/?username=humbertomcar&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook" />
 <h2 style="margin-bottom: 10px">Worktools</h2>
 <div style="justify-content: center; display: flex">
     <img alt="Python" src="./images/python-svgrepo-com.svg" style="width: 30px; height: 30px">
